@@ -38,7 +38,9 @@ Week-01-02-Data-Cleaning-EDA/
 │
 ├── reports/
 │   └── Week1_2_Internship_Summary_Report.pdf
-│
+│── cleaned-datasets/
+│   └── titanic_cleaned.xls
+│   └── Cleaned_Housing_Dataset.csv
 └── README.md
 ```
 
