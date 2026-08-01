@@ -24,5 +24,5 @@ Throughout the internship, I work on real-world datasets and apply data science 
 |------|-------|--------|
 | Week 1–2 | Data Cleaning & Exploratory Data Analysis | ✅ Completed |
 | Week 3 | Statistics & Probability | ✅ Completed |
-| Week 4 | Coming Soon | ⏳ |
-| Week 5 | Coming Soon | ⏳ |
+| Week 4 | Complete |.....  |
+| Week 5 | Complete | ✅ |
